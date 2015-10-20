@@ -67,4 +67,5 @@ git push origin liu
   remote/origin/master
   remote/origin/wayne
 
-
+3.重命名本地仓库
+git branch -m liu wayne
