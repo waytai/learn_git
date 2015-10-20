@@ -68,3 +68,5 @@ git push origin liu
   remote/origin/wayne
 
 
+3.删除一个远程分支
+git push origin :liu
