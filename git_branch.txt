@@ -73,3 +73,9 @@ git push origin :liu
 4.重命名本地仓库
 git branch -m liu wayne
 
+5.暂时保存，便于切换本地分支
+git stash
+
+git stash list
+
+git stash pop stash@{0}
