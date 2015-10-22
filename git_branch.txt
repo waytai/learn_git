@@ -70,5 +70,6 @@ git push origin liu
 3.删除一个远程分支
 git push origin :liu
 
-3.重命名本地仓库
+4.重命名本地仓库
 git branch -m liu wayne
+
