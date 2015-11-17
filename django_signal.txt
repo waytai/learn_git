@@ -1,0 +1,5 @@
+http://www.koopman.me/2015/01/django-signals-example/
+
+
+http://ubuntuhandbook.org/index.php/2014/06/install-latest-eclipse-ubuntu-14-04/
+
