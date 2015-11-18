@@ -1,1 +1,4 @@
 http://python.usyiyi.cn/django/topics/signals.html
+
+python各种技巧
+https://linux.cn/article-6584-1.html?utm_source=qqmail&utm_medium=qqmail
