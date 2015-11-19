@@ -1,0 +1,2 @@
+mysql python db
+http://www.cnblogs.com/rollenholt/archive/2012/05/29/2524327.html
