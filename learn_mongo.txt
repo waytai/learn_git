@@ -8,3 +8,6 @@ b = DB.room.find({'$and':[{"$or":[{"room_type":4},{"room_type":3}], "$or":[{"roo
 print b.count()
 c = DB.room.find({"room_contract_data.number":{'$regex': '.*38'}})
 print c.count()
+
+mongodb插入操作
+http://blog.csdn.net/wangli61289/article/details/40623097
