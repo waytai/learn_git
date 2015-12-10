@@ -11,3 +11,4 @@ print c.count()
 
 mongodb插入操作
 http://blog.csdn.net/wangli61289/article/details/40623097
+http://www.verydemo.com/demo_c122_i18132.html
