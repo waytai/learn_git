@@ -1,3 +1,5 @@
 http://www.ihunter.me/Ubuntu%2014.04%20VPS%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEShadowsocks%E7%9A%84%E6%96%B9%E6%B3%95.html
 
 http://www.elcct.com/installing-apache-spark-on-ubuntu-13-10/
+
+http://tankle.github.io/2014/11/05/Ubuntu%2014.04-Spark-install.html
