@@ -6,3 +6,8 @@ sudo su - postgres
 psql
 
 \d 查看psql表结构
+
+\du 查看psql下的用户
+
+dropdb mydb  删除db
+dropuser liu 删除用户，注意删除之前需要删除用户下的数据库
