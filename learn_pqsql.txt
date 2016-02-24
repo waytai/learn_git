@@ -2,6 +2,9 @@ http://www.chnlanker.com/postgresql/556.html
 http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html
 
 
+如何安装pg
+http://www.tuicool.com/articles/2EZ73m
+
 sudo su - postgres
 psql
 
@@ -11,3 +14,8 @@ psql
 
 dropdb mydb  删除db
 dropuser liu 删除用户，注意删除之前需要删除用户下的数据库
+
+
+
+切换用户
+sudo su - postgres
