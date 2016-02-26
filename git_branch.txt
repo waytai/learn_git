@@ -84,3 +84,7 @@ git stash pop stash@{0}
 
 6.回退到某个版本
 git reset --hard 77360d054632159a4e7408ed23e77ee06cf0eb2e
+
+
+7.回退到基本版本
+git reset --hard HEAD^
