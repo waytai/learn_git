@@ -23,3 +23,8 @@ dropuser liu 删除用户，注意删除之前需要删除用户下的数据库
 
 
 alter table city drop name
+
+
+导入数据库
+createdb newdatabase
+psql -d newdatabase -U postgres -f mydatabase.sql
