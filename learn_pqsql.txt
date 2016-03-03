@@ -13,10 +13,13 @@ psql
 
 \du 查看psql下的用户
 
-dropdb mydb  删除db
+dropdb mydb  命令行方式删除db
+drop database name  sql方式删除
 dropuser liu 删除用户，注意删除之前需要删除用户下的数据库
 
+
 \i my.sql 导入数据库
+\l 查看数据库
 
 
-
+alter table city drop name
