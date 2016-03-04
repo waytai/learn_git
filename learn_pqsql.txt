@@ -23,7 +23,10 @@ dropuser liu 删除用户，注意删除之前需要删除用户下的数据库
 
 
 alter table city drop name
+alter table city drop name cascade
 
+
+alter table city add column name varchar(30)
 
 导入数据库
 createdb newdatabase
