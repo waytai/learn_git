@@ -33,3 +33,8 @@ alter table city add column name varchar(30)
 导入数据库
 createdb newdatabase
 psql -d newdatabase -U postgres -f mydatabase.sql
+
+psql -U postgres(用户名)  数据库名(缺省时同用户名) < /data/dum.sql
+
+导出数据库
+pg_dump -h localhost -U postgres atlantic > atlantic_dump.sql
