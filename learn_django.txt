@@ -2,3 +2,7 @@ http://python.usyiyi.cn/django/topics/signals.html
 
 python各种技巧
 https://linux.cn/article-6584-1.html?utm_source=qqmail&utm_medium=qqmail
+
+
+学习django的文章
+http://www.cnblogs.com/linxiyue/category/569717.html
