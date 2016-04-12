@@ -12,6 +12,8 @@ sudo su - postgres
 psql
 
 \l 查看数据库
+\c mydb 切换到mydb表
+\dt 查看mydb的表结构
 
 \d 查看psql表结构
 
@@ -41,3 +43,6 @@ psql -d newdatabase -U postgres -f mydatabase.sql
 
 导出数据库
 pg_dump -h localhost -U postgres atlantic > atlantic_dump.sql
+
+
+
