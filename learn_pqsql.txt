@@ -11,6 +11,8 @@ http://www.tuicool.com/articles/2EZ73m
 sudo su - postgres
 psql
 
+\l 查看数据库
+
 \d 查看psql表结构
 
 \du 查看psql下的用户
@@ -21,7 +23,6 @@ dropuser liu 删除用户，注意删除之前需要删除用户下的数据库
 
 
 \i my.sql 导入数据库
-\l 查看数据库
 
 
 #在table中删除一条column
