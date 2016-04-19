@@ -19,6 +19,9 @@ psql
 
 \du 查看psql下的用户
 
+创建数据库
+createdb newdatabase
+
 dropdb mydb  命令行方式删除db
 drop database name  sql方式删除
 dropuser liu 删除用户，注意删除之前需要删除用户下的数据库
@@ -46,3 +49,4 @@ pg_dump -h localhost -U postgres atlantic > atlantic_dump.sql
 
 
 
+http://127.0.0.1/phppgadmin/

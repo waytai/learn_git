@@ -93,3 +93,18 @@ git reset --hard HEAD^
 8.与前面版本比较
 git diff HEAD^ 
 git diff HEAD~3
+
+
+
+8.django中忽略migrations
+
+.gitignore添加migrations
+git rm -r --cached .
+git add .
+git commit -m "gitignore migrations"
+git push origin master
+
+
+
+
+
