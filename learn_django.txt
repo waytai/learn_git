@@ -10,3 +10,6 @@ http://www.cnblogs.com/linxiyue/category/569717.html
 
 
 http://www.cnblogs.com/L-H-R-X-hehe/p/3816276.html
+
+django翻译
+http://python.usyiyi.cn/
