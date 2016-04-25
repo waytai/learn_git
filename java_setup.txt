@@ -5,3 +5,6 @@ https://linux.cn/article-3792-1.html
 
 ubuntu14.04 install java
 http://itsfoss.com/install-java-ubuntu-1404/
+
+maven install
+http://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/
