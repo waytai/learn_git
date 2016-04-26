@@ -8,3 +8,11 @@ http://itsfoss.com/install-java-ubuntu-1404/
 
 maven install
 http://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/
+
+
+eclipse install in ubuntu
+http://askubuntu.com/questions/26632/how-to-install-eclipse
+http://www.krizna.com/ubuntu/install-eclipse-ubuntu-14-04/
+
+java ubuntu install
+https://linux.cn/article-3792-1.html
