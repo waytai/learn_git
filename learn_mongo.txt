@@ -17,6 +17,8 @@ http://www.verydemo.com/demo_c122_i18132.html
 mongoengine
 https://github.com/MongoEngine/mongoengine/blob/master/docs/guide/connecting.rst
 http://tuzii.me/diary/522dc528848eea683d7724f7/MongoEngine%E6%B6%93%EE%85%9F%E6%9E%83%E9%8D%99%E5%82%9D
+http://docs.mongoengine.org/guide/defining-documents.html
 
 pymongo
 http://api.mongodb.org/python/current/tutorial.html
+
