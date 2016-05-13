@@ -22,3 +22,10 @@ http://docs.mongoengine.org/guide/defining-documents.html
 pymongo
 http://api.mongodb.org/python/current/tutorial.html
 
+mongodb备份
+mongodump -h dbhost -d dbname -o dbdirectory
+
+mongodb恢复
+mongorestore -h dbhost -d dbname --directoryperdb dbdirectory
+
+-h mongodb所在的服务器
