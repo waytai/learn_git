@@ -105,6 +105,7 @@ git commit -m "gitignore migrations"
 git push origin master
 
 
-
+9.git打tag
+git tag -a v0.1 -m "tag v0.1"
 
 
