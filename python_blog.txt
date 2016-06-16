@@ -5,3 +5,6 @@ http://blog.rainy.im/2016/04/07/python-thread-and-coroutine/
 
 python调用so文件的例子
 http://www.cricode.com/359.html
+
+伯乐头条中的
+http://hao.jobbole.com/python-pycrumbs/
