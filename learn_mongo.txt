@@ -12,3 +12,24 @@ print c.count()
 mongodb插入操作
 http://blog.csdn.net/wangli61289/article/details/40623097
 http://www.verydemo.com/demo_c122_i18132.html
+
+
+mongoengine
+https://github.com/MongoEngine/mongoengine/blob/master/docs/guide/connecting.rst
+http://tuzii.me/diary/522dc528848eea683d7724f7/MongoEngine%E6%B6%93%EE%85%9F%E6%9E%83%E9%8D%99%E5%82%9D
+http://docs.mongoengine.org/guide/defining-documents.html
+
+pymongo
+http://api.mongodb.org/python/current/tutorial.html
+
+mongodb备份
+mongodump -h dbhost -d dbname -o dbdirectory
+
+mongodb恢复
+mongorestore -h dbhost -d dbname --directoryperdb dbdirectory
+
+-h mongodb所在的服务器
+
+mongodb连接
+
+mongo ip:port -u '' -p ''

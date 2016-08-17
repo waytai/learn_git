@@ -1,0 +1,42 @@
+一. git flow流程主要是为了开发和测试以及发布快速和平稳
+
+二. git flow安装
+    1,安装 ubuntu:
+    sudo apt-get install git-flow
+    2,apple
+    brew install git-flow
+    3,windows 
+    具体没安装过
+
+三.git flow使用
+1.初始化:
+ git flow init
+ 直接默认下去,会生成一个分支 develop 
+
+2.开发新功能
+ git flow feature start f1
+ 注意 f1是新的分支的名称, 这样操作会生成一个新的分支feature/f1
+  
+  开发过程中可以有多次commit提交
+  f1推送到远程服务器
+  git push origin feature/f1
+
+  完成开发，结束新功能并删除 feature/f1分支
+  git flow feature finish f1
+  feature/f1分支的代码会合并到develop上
+
+3.发布上线
+    git flow release start 0.1
+    git-flow 从develop分创建一个新的分支release/0.1,并切换到分支下
+
+4. 修改发布版本的bug
+    git flow hotfix start 0.1
+    git从master分支拉出一个hotfix/1.0分支
+    git flow hotfix finish 0.1
+    完成后hotfix/0.1被merge到master, develop分支，打好tag 0.1.1，删除这个分支，切换会develop分支.
+
+
+http://blog.jobbole.com/76867/
+http://blog.haohtml.com/archives/15317
+http://www.berlinix.com/it/gitflow.php
+
