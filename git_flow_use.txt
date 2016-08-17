@@ -1,0 +1,52 @@
+1.主分支有三个,分别是master, develop, release分支
+git branch -a
+
+* develop
+  master
+  release
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/develop
+  remotes/origin/master
+  remotes/origin/release
+  remotes/origin/wayne_aws
+
+
+2.develop分支用于开发，目前模式是，开发的时候从develop分支拉一个feature分支，名字可以自己取
+
+git checkout -b feature_one origin/master
+
+开发完成，自测后提交到develop分支
+
+git checkout develop
+git merge feature_one
+git push origin master/develop
+
+
+3.develop分支合并到release分支,用于测试人员测试
+
+git checkout release
+git merge develop
+git push origin/release
+
+
+4.测试人员测试完成后,给release分支打标签
+
+git tag test-v1.0.0
+git push origin test-v1.0.0
+
+5.测试如果有bug,走 2 的过程，如果没有bug，release分支打tag,用于体验站部署
+git tag seal-v1.0.0
+git push origin seal-v1.0.0
+
+6.体验站如果有bug，走2的过程，如果没有bug,合并到master分支
+git checkout master
+git merge release
+git push origin master
+
+
+
+
+
+
+
+
