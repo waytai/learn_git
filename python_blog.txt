@@ -8,3 +8,6 @@ http://www.cricode.com/359.html
 
 伯乐头条中的
 http://hao.jobbole.com/python-pycrumbs/
+
+google python代码编码规范
+http://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_language_rules/
