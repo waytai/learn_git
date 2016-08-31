@@ -108,6 +108,8 @@ git push origin master
 9.git打tag
 git tag -a v0.1 -m "tag v0.1"
 
+git push origin v0.1
+
 10.git查看远程仓库地址
 git remote -v
 
