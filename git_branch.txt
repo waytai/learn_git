@@ -109,6 +109,10 @@ git push origin master
 git tag -a v0.1 -m "tag v0.1"
 
 git push origin v0.1
+删除远程tag
+git push origin --delete tag tagname
+删除本地tag
+git tag -d tagname
 
 10.git查看远程仓库地址
 git remote -v
