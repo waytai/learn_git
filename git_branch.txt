@@ -118,3 +118,6 @@ git tag -d tagname
 git remote -v
 
 
+11.modified diff
+git diff --cached .
+
