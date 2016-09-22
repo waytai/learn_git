@@ -121,3 +121,8 @@ git remote -v
 11.modified diff
 git diff --cached .
 
+
+12.git回退
+git reset --hard sha
+
+git push -u master origin -f
