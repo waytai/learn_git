@@ -18,3 +18,5 @@ django日志系统文章
 http://shawlang.github.io/2015/08/21/Django%E6%97%A5%E5%BF%97%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8/
 http://www.jianshu.com/p/28cc2cf69887
 https://www.huangwenchao.com.cn/2015/09/django-1-8-logging.html
+
+python manage.py runserver test --keepdb
