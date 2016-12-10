@@ -8,7 +8,7 @@ PyMem_SetupAllocators("malloc") 这个函数主要是分配内存
 PyMain函数要重点关注，因为这个是真正进入python的程序
 
 
-由PyMain跳转进入
+2.由PyMain跳转进入
 cpython/Modules/main.c
 
 if(help)
@@ -22,4 +22,28 @@ if(help)
 if(version)
 下面的函数
 ./python -v
+
+
+3. 运行./python liu.py(liu.py在当前位置不存在)
+会出现
+./python: can't open file 'liu.py': [Errno 2] No such file or directory'
+
+对应源码中　749　行的
+fprintf(stderr, "%ls: can't open file '%s': [Errno %d] %s\n",argv[0], cfilename, err, strerror(err));
+
+4.运行 ./python
+会出现
+python 3.7.0a0 (default, Dec 10 2016, 22:44:17) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+
+对应源码中 683　行的
+if (!Py_QuietFlag && (Py_VerboseFlag ||
+                        (command == NULL && filename == NULL &&
+                         module == NULL && stdin_is_interactive))) {
+        fprintf(stderr, "Python %s on %s\n",
+            Py_GetVersion(), Py_GetPlatform());
+        if (!Py_NoSiteFlag)
+            fprintf(stderr, "%s\n", COPYRIGHT);
+
 
