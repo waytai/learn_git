@@ -1,0 +1,9 @@
+1.cpython源码分析
+
+main函数：
+cpython/Programs/python.c下面
+
+PyMem_SetupAllocators("malloc") 这个函数主要是分配内存
+
+PyMain函数要重点关注，因为这个是真正进入python的程序
+
