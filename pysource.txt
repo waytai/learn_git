@@ -7,3 +7,19 @@ PyMem_SetupAllocators("malloc") 这个函数主要是分配内存
 
 PyMain函数要重点关注，因为这个是真正进入python的程序
 
+
+由PyMain跳转进入
+cpython/Modules/main.c
+
+if(help)
+    return usage(0, argv[0])
+进入usage函数就可以看到这个函数是做什么用的
+在编译出的 python
+./python -h
+就可以看到这个函数的效果
+
+同理 
+if(version)
+下面的函数
+./python -v
+
