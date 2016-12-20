@@ -1,0 +1,1 @@
+sudo pip install -r liu.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
