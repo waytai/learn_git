@@ -27,3 +27,7 @@ http://docs.pythontab.com/django/django1.5/topics/db/models.html
 
 chinese tutorial
 http://docs.pythontab.com/
+
+用源码告诉你django权限管理是怎么回事
+http://blog.csdn.net/yangyihongyangjiying/article/details/45620941
+http://blog.csdn.net/yangyihongyangjiying/article/details/45623865
