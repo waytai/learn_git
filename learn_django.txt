@@ -20,3 +20,7 @@ http://www.jianshu.com/p/28cc2cf69887
 https://www.huangwenchao.com.cn/2015/09/django-1-8-logging.html
 
 python manage.py runserver test --keepdb
+
+
+learn django
+http://docs.pythontab.com/django/django1.5/topics/db/models.html
