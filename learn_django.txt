@@ -24,3 +24,6 @@ python manage.py runserver test --keepdb
 
 learn django
 http://docs.pythontab.com/django/django1.5/topics/db/models.html
+
+chinese tutorial
+http://docs.pythontab.com/
