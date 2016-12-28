@@ -31,3 +31,6 @@ http://docs.pythontab.com/
 用源码告诉你django权限管理是怎么回事
 http://blog.csdn.net/yangyihongyangjiying/article/details/45620941
 http://blog.csdn.net/yangyihongyangjiying/article/details/45623865
+
+django　models表关系查询
+http://www.cnblogs.com/pythonxiaohu/p/5814247.html
