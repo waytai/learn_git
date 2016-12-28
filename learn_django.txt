@@ -34,3 +34,6 @@ http://blog.csdn.net/yangyihongyangjiying/article/details/45623865
 
 django　models表关系查询
 http://www.cnblogs.com/pythonxiaohu/p/5814247.html
+
+简书 权限
+http://www.jianshu.com/p/75802c6d97c5
