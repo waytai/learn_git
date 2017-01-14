@@ -44,3 +44,7 @@ http://www.cnblogs.com/wangtp/articles/5543459.html
 
 django树形结构,可以用于项目作参考
 http://blog.csdn.net/shangliuyan/article/details/7496974
+
+
+django models学习
+http://www.jianshu.com/p/c10be59aad7a
