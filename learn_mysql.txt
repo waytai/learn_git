@@ -1,2 +1,5 @@
 mysql python db
 http://www.cnblogs.com/rollenholt/archive/2012/05/29/2524327.html
+
+mysql install on ubuntu
+https://www.linode.com/docs/databases/mysql/install-mysql-on-ubuntu-14-04/
