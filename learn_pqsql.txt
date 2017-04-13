@@ -4,6 +4,9 @@ http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html
 https://linux.cn/article-6770-1.html?utm_source=qqmail&utm_medium=qqmail
 http://my.oschina.net/Kenyon/blog/165432
 
+ubuntu install pgadmin3
+sudo apt-get install pgadmin3
+
 
 如何安装pg
 http://www.tuicool.com/articles/2EZ73m
