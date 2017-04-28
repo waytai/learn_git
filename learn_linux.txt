@@ -1,1 +1,4 @@
 http://dirlt.com/
+
+比较好的学习Linux编程的博客
+http://blog.csdn.net/ctthunagchneg/article/category/1495615
