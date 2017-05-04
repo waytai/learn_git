@@ -1,1 +1,8 @@
+通过例子学习go的基本语法
+
 https://gobyexample.com/
+
+go语言标准库
+
+http://studygolang.com/pkgdoc
+
