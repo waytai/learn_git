@@ -12,3 +12,16 @@ sudo dpkg --get-selections | grep linux
 
 3,删除无用的linux内核
 sudo apt-get purge linux-core
+
+4,tcpdump命令
+#保存为cap文件格式
+#tcpdump -i wlan0 host 192.168.1.106 -w liu.cap
+
+#保存为pcap文件格式
+tcpdump -w test.pcap -i wlan0
+#读取pcap文件格式
+tcpdump -nnr test.pcap
+
+
+16进制显示
+tcpdump -X -i eth1 udp
