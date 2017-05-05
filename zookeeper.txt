@@ -1,0 +1,12 @@
+zookeeper install
+https://www.ibm.com/developerworks/cn/opensource/os-cn-zookeeper/
+
+
+zookeeper中文网
+http://zookeeper.majunwei.com/
+英文网
+http://zookeeper.apache.org/doc/trunk/zookeeperProgrammers.html
+zookeeper入门指南
+http://zookeeper.majunwei.com/document/3.4.8/GettingStarted.html
+zookeeper简介
+http://zookeeper.majunwei.com/document/3.4.8/GettingStarted.html
