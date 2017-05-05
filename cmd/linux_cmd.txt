@@ -1,0 +1,14 @@
+自己总结的一些linux命令
+
+1,开关wifi和bluetooth
+sudo rfkill block wifi
+sudo rfkill block bluetooth
+sudo rfkill unblock wifi
+sudo rfkill unblock bluetoth
+
+
+2,查看linux内核
+sudo dpkg --get-selections | grep linux
+
+3,删除无用的linux内核
+sudo apt-get purge linux-core
