@@ -48,3 +48,6 @@ http://blog.csdn.net/shangliuyan/article/details/7496974
 
 django models学习
 http://www.jianshu.com/p/c10be59aad7a
+
+django英文文档
+https://docs.djangoproject.com/en/1.11/
