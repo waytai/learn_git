@@ -51,3 +51,8 @@ http://www.jianshu.com/p/c10be59aad7a
 
 django英文文档
 https://docs.djangoproject.com/en/1.11/
+
+
+django signals
+http://www.koopman.me/2015/01/django-signals-example/
+
