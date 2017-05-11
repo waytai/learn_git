@@ -56,3 +56,5 @@ https://docs.djangoproject.com/en/1.11/
 django signals
 http://www.koopman.me/2015/01/django-signals-example/
 
+django rest framework
+http://www.django-rest-framework.org/
