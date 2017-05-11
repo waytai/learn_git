@@ -6,3 +6,9 @@ go语言标准库
 
 http://studygolang.com/pkgdoc
 
+the go programming
+http://www.gopl.io/
+
+
+to tour
+http://tour.golangtc.com/list
