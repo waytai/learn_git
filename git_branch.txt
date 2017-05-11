@@ -126,3 +126,16 @@ git diff --cached .
 git reset --hard sha
 
 git push -u master origin -f
+
+13.初始化生产git仓库
+git push -u origin master
+
+echo "# learn_lisp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:waytai/learn_lisp.git
+git push -u origin master
+
+
+
