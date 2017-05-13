@@ -11,3 +11,6 @@ http://www.cnblogs.com/x_wukong/p/4541010.html
 
 linux高性能服务器编程
 http://blog.csdn.net/ctthunagchneg/article/category/2102385
+
+linux进程通信
+https://www.ibm.com/search/csass/search/?q=Linux%E7%8E%AF%E5%A2%83%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1&sn=dw&lang=zh&cc=CN&en=utf&hpp=20&dws=cndw&lo=zh
