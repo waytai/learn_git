@@ -2,3 +2,16 @@ http://dirlt.com/
 
 比较好的学习Linux编程的博客
 http://blog.csdn.net/ctthunagchneg/article/category/1495615
+
+linux tcp编程学习
+http://blog.csdn.net/q623702748/article/category/6279133
+
+linux tcp udp例子
+http://www.cnblogs.com/x_wukong/p/4541010.html
+
+linux高性能服务器编程
+http://blog.csdn.net/ctthunagchneg/article/category/2102385
+
+linux进程通信
+
+https://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp?sort_by=&show_abstract=true&show_all=&search_flag=&topic_by=-1&type_by=%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0&search_by=%E9%83%91%E5%BD%A6%E5%85%B4+&%E6%90%9C%E7%B
