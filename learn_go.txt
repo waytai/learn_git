@@ -12,3 +12,7 @@ http://www.gopl.io/
 
 to tour
 http://tour.golangtc.com/list
+
+
+go语言圣经
+https://docs.hacknode.org/gopl-zh/
