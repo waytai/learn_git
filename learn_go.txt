@@ -16,3 +16,7 @@ http://tour.golangtc.com/list
 
 go语言圣经
 https://docs.hacknode.org/gopl-zh/
+
+
+github上的go学习资料
+https://github.com/Unknwon/go-study-index/
