@@ -1,0 +1,8 @@
+ansi common lisp中文
+http://acl.readthedocs.io/en/latest/zhCN/
+
+on lisp中文
+http://www.kancloud.cn/ituring/on-lisp/56192
+
+practical common lisp 英文
+http://www.gigamonkeys.com/book/
