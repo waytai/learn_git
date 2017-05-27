@@ -10,3 +10,6 @@ http://www.gigamonkeys.com/book/
 
 let over lambda 英文
 http://letoverlambda.com/index.cl/toc
+
+common lisp the language 2nd edition
+http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node1.html#SECTION00100000000000000000
