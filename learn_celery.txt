@@ -1,0 +1,8 @@
+celery 用户指南
+http://blog.csdn.net/happyanger6/article/details/51436003
+
+django执行定时任务
+http://www.tuicool.com/articles/ZBZZriq
+
+
+
