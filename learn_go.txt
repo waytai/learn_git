@@ -20,3 +20,6 @@ https://docs.hacknode.org/gopl-zh/
 
 github上的go学习资料
 https://github.com/Unknwon/go-study-index/
+
+go web编程
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md
