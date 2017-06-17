@@ -1,0 +1,8 @@
+lora资料学习
+http://www.cnblogs.com/answerinthewind/tag/LoRaWAN/
+
+lora博客资料
+http://blog.csdn.net/jiangjunjie_2005/article/category/5756715
+
+lora实验室
+http://www.loraapp.com/lora-university-case/lora-introduction/
