@@ -25,3 +25,7 @@ tcpdump -nnr test.pcap
 
 16进制显示
 tcpdump -X -i eth1 udp
+
+
+5,删除deinstall内核
+sudo dpkg -P linux-core
