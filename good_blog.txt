@@ -2,3 +2,6 @@ http://timyang.net/category/tao/
 
 c10网站后台相关的资料 
 http://www.kegel.com/c10k.html
+
+关于python的高级用法
+https://harveyqing.gitbooks.io/python-read-and-write/content/python_advance/how_to_use_linux_epoll.html
