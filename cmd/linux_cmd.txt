@@ -29,3 +29,7 @@ tcpdump -X -i eth1 udp
 
 5,删除deinstall内核
 sudo dpkg -P linux-core
+
+6,查看文件大小
+du -h fog|grep  "\<fog\>$"
+du -h hao.txt
