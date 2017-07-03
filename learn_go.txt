@@ -26,3 +26,4 @@ https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/pref
 
 go语言源文件
 http://pan.baidu.com/s/1pL0Ca4V#list/path=%2Fgo%2F1.7rc6
+http://studygolang.com/articles/9191
