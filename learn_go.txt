@@ -23,3 +23,6 @@ https://github.com/Unknwon/go-study-index/
 
 go web编程
 https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md
+
+go语言源文件
+http://pan.baidu.com/s/1pL0Ca4V#list/path=%2Fgo%2F1.7rc6
