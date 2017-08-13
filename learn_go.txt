@@ -30,3 +30,6 @@ http://studygolang.com/articles/9191
 
 go china
 https://www.golangtc.com/download/package
+
+go数据结构
+https://flaviocopes.com/golang-data-structures/
