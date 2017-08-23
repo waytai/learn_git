@@ -33,3 +33,7 @@ https://www.golangtc.com/download/package
 
 go数据结构
 https://flaviocopes.com/golang-data-structures/
+
+
+go看云资料
+https://www.kancloud.cn/digest/batu-go
