@@ -1,2 +1,6 @@
 深度学习
 http://www.deeplearningbook.org/
+
+
+卡内基梅陇大学的教材
+https://www.cs.cornell.edu/jeh/book2016June9.pdf
