@@ -1,4 +1,7 @@
+linux c编程一站式学习 
 自己总结的一些linux命令
+
+http://akaedu.github.io/book/
 
 1,开关wifi和bluetooth
 sudo rfkill block wifi
