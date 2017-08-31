@@ -1,6 +1,7 @@
 通过例子学习go的基本语法
 
 https://gobyexample.com/
+https://github.com/mmcgrana/gobyexample/tree/master/examples
 
 go语言标准库
 
