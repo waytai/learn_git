@@ -18,3 +18,6 @@ https://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp?sort_by=&show_
 
 c语言规范
 http://en.cppreference.com/w/c
+
+linux0.11内核编译与运行
+https://zixiaojindao.github.io/linux/2012/10/01/linux011-/
