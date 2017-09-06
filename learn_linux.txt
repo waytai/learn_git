@@ -21,3 +21,5 @@ http://en.cppreference.com/w/c
 
 linux0.11内核编译与运行
 https://zixiaojindao.github.io/linux/2012/10/01/linux011-/
+晓态科技的linux0.11编译
+http://tinylab.org/take-5-minutes-to-build-linux-0-11-experiment-envrionment/
