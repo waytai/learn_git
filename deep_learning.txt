@@ -8,3 +8,6 @@ https://www.cs.cornell.edu/jeh/book2016June9.pdf
 
 think系列教程
 http://greenteapress.com/wp/think-bayes/
+
+python线性代数
+http://www.cnblogs.com/moon1992/p/4960700.html
