@@ -1,0 +1,11 @@
+install anywhere:
+npm install anywhere -g
+
+
+执行:
+anywhere
+anywhere -p 8000
+anywhere -h localhost -p 9999
+
+参考资料
+http://www.cnblogs.com/cssfirefly/p/5736139.html
