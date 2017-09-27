@@ -1,5 +1,6 @@
 深度学习
 http://www.deeplearningbook.org/
+https://github.com/Syndrome777/DeepLearningTutorial
 
 
 卡内基梅陇大学的教材
