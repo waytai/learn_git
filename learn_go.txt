@@ -15,7 +15,7 @@ to tour
 http://tour.golangtc.com/list
 
 
-go语言圣经
+go语言圣经包
 https://docs.hacknode.org/gopl-zh/
 
 
@@ -38,3 +38,8 @@ https://flaviocopes.com/golang-data-structures/
 
 go看云资料
 https://www.kancloud.cn/digest/batu-go
+
+
+
+go guru以及一些常用包安装
+https://studygolang.com/articles/8628
