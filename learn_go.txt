@@ -43,3 +43,7 @@ https://www.kancloud.cn/digest/batu-go
 
 go guru以及一些常用包安装
 https://studygolang.com/articles/8628
+
+
+go语言安装
+https://studygolang.com/articles/7482
