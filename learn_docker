@@ -14,3 +14,10 @@ docker rm container_id
 
 docker rmi image_id
 
+查看logs输出
+
+docker logs -f images_id
+
+
+运行docker compose
+docker compose up
