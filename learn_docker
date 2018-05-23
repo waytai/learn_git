@@ -1,0 +1,16 @@
+查看container
+
+docker ps -a
+
+查看images
+
+docker images
+
+删除container
+
+docker rm container_id
+
+删除images
+
+docker rmi image_id
+
